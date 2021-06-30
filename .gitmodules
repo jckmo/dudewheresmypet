@@ -1,0 +1,7 @@
+[submodule "pets-front"]
+	path = pets-front
+	url = git@github.com:jackismoe/pets-front.git
+
+[submodule "pets-back"]
+	path = pets-back
+	url = git@github.com:jackismoe/pets-back.git
